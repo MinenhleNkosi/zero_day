@@ -20,12 +20,12 @@ Also:
 
 *Read or watch:*
 
-* []Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
-* []man uname](https://linux.die.net/man/1/uname)
+* [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
+* [man uname](https://linux.die.net/man/1/uname)
 
 # Learning Objectives
 
-At the end of this project, you are expected to be able to []explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), *without the help of Google:*
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), *without the help of Google:*
 ## General
 
 * What is a virtual machine
